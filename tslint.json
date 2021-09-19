@@ -4,6 +4,7 @@
     "codelyzer"
   ],
   "rules": {
+    "ban-types": false,
     "align": {
       "options": [
         "parameters",
